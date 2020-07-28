@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Curso de C#\\Git - Github - Nelio\\Teste\\Teste.csproj",
+      "projectUniqueName": "C:\\Curso de C#\\Git - Github - Nelio\\Outra-Pasta\\curso-git\\Teste.csproj",
       "projectName": "Teste",
-      "projectPath": "C:\\Curso de C#\\Git - Github - Nelio\\Teste\\Teste.csproj",
+      "projectPath": "C:\\Curso de C#\\Git - Github - Nelio\\Outra-Pasta\\curso-git\\Teste.csproj",
       "packagesPath": "C:\\Users\\Cognizant\\.nuget\\packages\\",
-      "outputPath": "C:\\Curso de C#\\Git - Github - Nelio\\Teste\\obj\\",
+      "outputPath": "C:\\Curso de C#\\Git - Github - Nelio\\Outra-Pasta\\curso-git\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Cognizant\\AppData\\Roaming\\NuGet\\NuGet.Config",

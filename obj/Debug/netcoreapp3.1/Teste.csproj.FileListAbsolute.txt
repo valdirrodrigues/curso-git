@@ -11,3 +11,16 @@ C:\Curso de C#\Git - Github - Nelio\Teste\obj\Debug\netcoreapp3.1\Teste.Assembly
 C:\Curso de C#\Git - Github - Nelio\Teste\obj\Debug\netcoreapp3.1\Teste.dll
 C:\Curso de C#\Git - Github - Nelio\Teste\obj\Debug\netcoreapp3.1\Teste.pdb
 C:\Curso de C#\Git - Github - Nelio\Teste\obj\Debug\netcoreapp3.1\Teste.genruntimeconfig.cache
+C:\Curso de C#\Git - Github - Nelio\Outra-Pasta\curso-git\bin\Debug\netcoreapp3.1\Teste.exe
+C:\Curso de C#\Git - Github - Nelio\Outra-Pasta\curso-git\bin\Debug\netcoreapp3.1\Teste.deps.json
+C:\Curso de C#\Git - Github - Nelio\Outra-Pasta\curso-git\bin\Debug\netcoreapp3.1\Teste.runtimeconfig.json
+C:\Curso de C#\Git - Github - Nelio\Outra-Pasta\curso-git\bin\Debug\netcoreapp3.1\Teste.runtimeconfig.dev.json
+C:\Curso de C#\Git - Github - Nelio\Outra-Pasta\curso-git\bin\Debug\netcoreapp3.1\Teste.dll
+C:\Curso de C#\Git - Github - Nelio\Outra-Pasta\curso-git\bin\Debug\netcoreapp3.1\Teste.pdb
+C:\Curso de C#\Git - Github - Nelio\Outra-Pasta\curso-git\obj\Debug\netcoreapp3.1\Teste.csprojAssemblyReference.cache
+C:\Curso de C#\Git - Github - Nelio\Outra-Pasta\curso-git\obj\Debug\netcoreapp3.1\Teste.csproj.CoreCompileInputs.cache
+C:\Curso de C#\Git - Github - Nelio\Outra-Pasta\curso-git\obj\Debug\netcoreapp3.1\Teste.AssemblyInfoInputs.cache
+C:\Curso de C#\Git - Github - Nelio\Outra-Pasta\curso-git\obj\Debug\netcoreapp3.1\Teste.AssemblyInfo.cs
+C:\Curso de C#\Git - Github - Nelio\Outra-Pasta\curso-git\obj\Debug\netcoreapp3.1\Teste.dll
+C:\Curso de C#\Git - Github - Nelio\Outra-Pasta\curso-git\obj\Debug\netcoreapp3.1\Teste.pdb
+C:\Curso de C#\Git - Github - Nelio\Outra-Pasta\curso-git\obj\Debug\netcoreapp3.1\Teste.genruntimeconfig.cache
